@@ -11,20 +11,14 @@ API's to be Used: Groupon, Mapbox
 
 Rough Breakdown of Tasks: 
 
-Gurpreet: Image/Emoji Sourcing
+Gurpreet: Adding in Reset feature, Image/Emoji Sourcing
 
-Meena: Java Stuff
+Meena: DiscountAPI and NREL API Stuff
 
 Patrick: HTML / CSS
 
-Zac: API stuff
+Zac: mapBox API stuff
 
 
-HTML
-API's & Data-Library (Explore Groupon Alternative)
-CSS
-Java - Timers for image carousels
-Java - Search field collapse/expand
-Java - Button functions
-Source Stock Images & Emojis
+
 
