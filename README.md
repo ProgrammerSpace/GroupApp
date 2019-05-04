@@ -7,17 +7,17 @@ Project Description: Find deals, vacation activities, and road conditions betwee
 
 Sketch of Final Product: See OneNote Image
 
-# API's to be Used: DiscountAPI, NREL, Mapbox
+## API's to be Used: DiscountAPI, NREL, Mapbox
 
 Task breakdown: 
 
-## Meena: DiscountAPI and NREL API Stuff
+### Meena: DiscountAPI and NREL API Stuff
 
-## Patrick: HTML / CSS
+### Patrick: HTML / CSS
 
-## Zac: mapBox API stuff
+### Zac: mapBox API stuff
 
-## Gurpreet: Adding in Reset feature, Image/Emoji Sourcing
+### Gurpreet: Adding in Reset feature, Image/Emoji Sourcing
 
 
 
