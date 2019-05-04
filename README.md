@@ -1,5 +1,5 @@
 # GroupApp
-Project Title: Discount Destination(s)
+Project Title: Discount Destination(s) with details on charging stations through your route.
 
 Team Members: Gurpreet Parhar, Meena Sivakumar, Patrick Owens, Zac Warner
 
@@ -7,17 +7,17 @@ Project Description: Find deals, vacation activities, and road conditions betwee
 
 Sketch of Final Product: See OneNote Image
 
-API's to be Used: Groupon, Mapbox
+# API's to be Used: DiscountAPI, NREL, Mapbox
 
-Rough Breakdown of Tasks: 
+Task breakdown: 
 
-Gurpreet: Adding in Reset feature, Image/Emoji Sourcing
+## Meena: DiscountAPI and NREL API Stuff
 
-Meena: DiscountAPI and NREL API Stuff
+## Patrick: HTML / CSS
 
-Patrick: HTML / CSS
+## Zac: mapBox API stuff
 
-Zac: mapBox API stuff
+## Gurpreet: Adding in Reset feature, Image/Emoji Sourcing
 
 
 
