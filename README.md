@@ -1,5 +1,5 @@
 # GroupApp
-Project Title: Discount Destination(s) with details on charging stations through your route.
+This app helps you with best possible route to your destination, populated with charging station details on the way. Also helps you to identify available deals and discounts at your destination.
 
 Team Members: Gurpreet Parhar, Meena Sivakumar, Patrick Owens, Zac Warner
 
@@ -7,15 +7,15 @@ Project Description: Find deals, vacation activities, and road conditions betwee
 
 Sketch of Final Product: See OneNote Image
 
-## API's to be Used: DiscountAPI, NREL, Mapbox
+## API's Used: DiscountAPI, NREL, Mapbox
 
 Task breakdown: 
 
-### Meena: DiscountAPI and NREL API Stuff
+### Meena: DiscountAPI and NREL API 
 
 ### Patrick: HTML / CSS
 
-### Zac: mapBox API stuff
+### Zac: mapBox API 
 
 ### Gurpreet: Adding in Reset feature, Image/Emoji Sourcing
 
